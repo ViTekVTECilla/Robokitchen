@@ -433,16 +433,7 @@ class PiperTerminal:
                     return True
         return False
 
-    def _safe_move_smooth(self, arm, target_pt, steps=25) -> bool:
-        """Безопасный вариант _move_smooth. Выполняется только если рука уже находится
-        рядом с одной из безопасных поз (Zero-track). Возвращает True если движение
-        начато, False если отказано (небезопасно).
-        """
-        # if not self._is_near_zero_track(arm):
-        #     logging.error("[SAFE-MOVE] Current pose is not near any Zero-track. Aborting move.")
-        #     return False
-        self._move_smooth(arm, target_pt, steps=steps)
-        return True
+   
 
     # --------------------------------- math helpers ---------------------------------------------------
     @staticmethod
@@ -468,7 +459,7 @@ class PiperTerminal:
             if idx in IGNORED_JOINTS:
                 continue
             if d > max_delta:
-                max_delta = d
+                /////
                 worst_joint = idx
         return max_delta, worst_joint if worst_joint is not None else -1
 
@@ -757,9 +748,7 @@ class PiperTerminal:
                 n = len(times_sorted)
                 p10 = times_sorted[int(n * 0.1)]
                 p90 = times_sorted[int(n * 0.9)-1]
-                logging.info(
-                    f"[REC-TIMING] samples={n}  min={min(times_ms):.2f} ms  p10={p10:.2f} ms  avg={sum(times_ms)/n:.2f} ms  p90={p90:.2f} ms  max={max(times_ms):.2f} ms"
-                )
+               
 
             # Persist using the configured track_cls
             self.track_cls.write_from_record(full_name, points_ts, details)
