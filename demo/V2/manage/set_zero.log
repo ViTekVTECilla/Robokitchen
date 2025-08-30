@@ -1,0 +1,588 @@
+2025-07-10 17:22:32,904 [INFO] Connecting to CAN 'can0'…
+2025-07-10 17:22:32,931 [INFO] Created a socket
+2025-07-10 17:22:33,446 [INFO] Current joint angles (0.001°): [0, -1948, 2011, 5011, 17278, 1715]
+2025-07-10 17:22:33,447 [INFO] Driver enable flags: [True, True, True, True, True, True] (1 = enabled)
+2025-07-10 17:24:17,221 [INFO] Disabling all motors …
+2025-07-10 17:24:50,742 [INFO] Set zero (index 1)
+2025-07-10 17:26:25,171 [INFO] Set zero (index 1)
+2025-07-10 17:26:42,467 [INFO] Set zero (index 2)
+2025-07-10 17:26:59,113 [INFO] Set zero (index 3)
+2025-07-10 17:27:26,250 [INFO] Set zero (index 0)
+2025-07-10 17:27:36,195 [INFO] Set zero (index 1)
+2025-07-10 17:27:49,236 [INFO] Set zero (index 2)
+2025-07-10 17:29:20,838 [INFO] Set zero (index 3)
+2025-07-10 17:30:29,121 [INFO] Set zero (index 4)
+2025-07-10 17:31:34,528 [INFO] Set zero (index 0)
+2025-07-10 17:32:07,070 [INFO] Set zero (index 0)
+2025-07-10 17:32:19,637 [INFO] Set zero (index 1)
+2025-07-10 17:32:43,372 [INFO] Set zero (index 2)
+2025-07-10 17:32:53,360 [INFO] Set zero (index 3)
+2025-07-10 17:33:10,818 [INFO] Set zero (index 4)
+2025-07-10 17:33:28,041 [INFO] Set zero (index 5)
+2025-07-10 17:33:37,471 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-10 17:33:39,349 [INFO] Joint angles after zero-set (0.001°): [-41240, 0, -26, 0, 22409, 0]
+2025-07-10 17:33:39,590 [INFO] After in degrees: [-41.24, 0.0, -0.026, 0.0, 22.409, 0.0]
+2025-07-10 17:33:39,607 [WARNING] Zero-set MAY HAVE FAILED, max deviation 41240 > 200
+2025-07-10 17:33:39,627 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-10 17:33:39,724 [INFO] Done.
+2025-07-10 17:37:29,801 [INFO] Connecting to CAN 'can0'…
+2025-07-10 17:37:29,811 [INFO] Created a socket
+2025-07-10 17:37:30,657 [INFO] Current joint angles (0.001°): [13727, 0, 685, 2102, 25339, -71598]
+2025-07-10 17:37:30,659 [INFO] Driver enable flags: [True, True, True, True, True, True] (1 = enabled)
+2025-07-10 17:37:53,687 [INFO] Disabling all motors …
+2025-07-10 17:37:58,635 [INFO] Set zero (index 0)
+2025-07-10 17:38:06,569 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-10 17:38:08,089 [INFO] Joint angles after zero-set (0.001°): [0, 0, 685, 2138, 25339, -71617]
+2025-07-10 17:38:08,090 [INFO] After in degrees: [0.0, 0.0, 0.685, 2.138, 25.339, -71.617]
+2025-07-10 17:38:08,090 [WARNING] Zero-set MAY HAVE FAILED, max deviation 71617 > 200
+2025-07-10 17:38:08,090 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-10 17:38:08,099 [INFO] Done.
+2025-07-10 17:39:26,993 [INFO] Connecting to CAN 'can0'…
+2025-07-10 17:39:27,005 [INFO] Created a socket
+2025-07-10 17:39:27,516 [INFO] Current joint angles (0.001°): [1153, 0, 685, 2391, 25220, -1538]
+2025-07-10 17:39:27,517 [INFO] Driver enable flags: [True, True, True, True, True, True] (1 = enabled)
+2025-07-10 17:39:30,835 [INFO] Disabling all motors …
+2025-07-10 17:39:53,211 [INFO] Connecting to CAN 'can0'…
+2025-07-10 17:39:53,222 [INFO] Created a socket
+2025-07-10 17:39:53,758 [INFO] Current joint angles (0.001°): [1153, 0, 685, 2569, 25220, -1538]
+2025-07-10 17:39:53,758 [INFO] Driver enable flags: [True, True, True, True, True, True] (1 = enabled)
+2025-07-10 17:39:58,182 [INFO] Disabling all motors …
+2025-07-10 17:41:06,110 [INFO] Set zero (index 0)
+2025-07-10 17:41:18,568 [INFO] Set zero (index 1)
+2025-07-10 17:41:22,475 [INFO] Set zero (index 2)
+2025-07-10 17:41:28,187 [INFO] Set zero (index 3)
+2025-07-10 17:41:35,313 [INFO] Set zero (index 4)
+2025-07-10 17:41:41,689 [INFO] Set zero (index 5)
+2025-07-10 17:41:44,234 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-10 17:41:45,737 [INFO] Joint angles after zero-set (0.001°): [0, 71, 0, 3410, 22127, 0]
+2025-07-10 17:41:45,737 [INFO] After in degrees: [0.0, 0.071, 0.0, 3.41, 22.127, 0.0]
+2025-07-10 17:41:45,739 [WARNING] Zero-set MAY HAVE FAILED, max deviation 22127 > 200
+2025-07-10 17:41:45,743 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-10 17:41:45,744 [INFO] Done.
+2025-07-10 17:46:45,958 [INFO] Connecting to CAN 'can0'…
+2025-07-10 17:46:45,961 [INFO] Created a socket
+2025-07-10 17:46:46,465 [INFO] Current joint angles (0.001°): [0, 110, 1419, 2244, 26272, 1496]
+2025-07-10 17:46:46,465 [INFO] Driver enable flags: [True, True, True, True, True, True] (1 = enabled)
+2025-07-10 17:46:51,353 [INFO] Disabling all motors …
+2025-07-10 17:47:01,952 [INFO] Set zero (index 0)
+2025-07-10 17:48:25,848 [INFO] Connecting to CAN 'can0'…
+2025-07-10 17:48:25,852 [INFO] Created a socket
+2025-07-10 17:48:26,353 [INFO] Current joint angles (0.001°): [75, -144, 1496, 354, 22261, 1491]
+2025-07-10 17:48:26,354 [INFO] Driver enable flags: [True, True, True, True, True, True] (1 = enabled)
+2025-07-10 17:48:30,859 [INFO] Disabling all motors …
+2025-07-10 17:48:39,063 [INFO] Set zero (index 0)
+2025-07-10 17:48:39,163 [INFO] Set zero (index 1)
+2025-07-10 17:48:39,263 [INFO] Set zero (index 2)
+2025-07-10 17:48:39,363 [INFO] Set zero (index 3)
+2025-07-10 17:48:39,464 [INFO] Set zero (index 4)
+2025-07-10 17:48:39,564 [INFO] Set zero (index 5)
+2025-07-10 17:48:39,664 [INFO] Zero-set command sent to all joints.
+2025-07-10 17:48:41,166 [INFO] Joint angles after zero-set (0.001°): [0, 0, 27, 0, 0, 0]
+2025-07-10 17:48:41,169 [INFO] After in degrees: [0.0, 0.0, 0.027, 0.0, 0.0, 0.0]
+2025-07-10 17:48:41,169 [INFO] Zero-set SUCCESS, max deviation 27 ≤ 200
+2025-07-10 17:48:41,169 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-10 17:48:41,169 [INFO] Done.
+2025-07-10 17:49:47,049 [INFO] Connecting to CAN 'can0'…
+2025-07-10 17:49:47,052 [INFO] Created a socket
+2025-07-10 17:49:47,554 [INFO] Current joint angles (0.001°): [0, 0, 27, 0, 0, 0]
+2025-07-10 17:49:47,554 [INFO] Driver enable flags: [True, True, True, True, True, True] (1 = enabled)
+2025-07-10 17:49:59,329 [INFO] Connecting to CAN 'can0'…
+2025-07-10 17:49:59,332 [INFO] Created a socket
+2025-07-10 17:49:59,334 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-10 17:49:59,334 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 17:50:02,830 [INFO] Disabling all motors …
+2025-07-10 17:50:26,800 [INFO] Set zero (index 0)
+2025-07-10 17:51:11,678 [INFO] Set zero (index 1)
+2025-07-10 17:51:31,036 [INFO] Set zero (index 2)
+2025-07-10 17:51:39,636 [INFO] Set zero (index 3)
+2025-07-10 17:51:51,889 [INFO] Set zero (index 4)
+2025-07-10 17:52:01,379 [INFO] Set zero (index 5)
+2025-07-10 17:52:03,355 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-10 17:52:04,858 [INFO] Joint angles after zero-set (0.001°): [0, 0, 80, 1537, 22333, 0]
+2025-07-10 17:52:04,858 [INFO] After in degrees: [0.0, 0.0, 0.08, 1.537, 22.333, 0.0]
+2025-07-10 17:52:04,860 [WARNING] Zero-set MAY HAVE FAILED, max deviation 22333 > 200
+2025-07-10 17:52:04,864 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-10 17:52:04,865 [INFO] Done.
+2025-07-10 21:03:01,096 [INFO] Connecting to CAN 'can0'…
+2025-07-10 21:03:01,105 [INFO] Created a socket
+2025-07-10 21:03:01,161 [INFO] Current joint angles (0.001°): [-529, -1629, -1553, 487, 25186, 16537]
+2025-07-10 21:03:01,165 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 21:03:12,419 [INFO] Disabling all motors …
+2025-07-10 21:03:47,131 [INFO] Set zero (index 0)
+2025-07-10 21:03:58,817 [INFO] Set zero (index 1)
+2025-07-10 21:04:11,301 [INFO] Set zero (index 2)
+2025-07-10 21:29:42,661 [INFO] Connecting to CAN 'can0'…
+2025-07-10 21:29:42,668 [INFO] Created a socket
+2025-07-10 21:29:42,675 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-10 21:29:42,675 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 21:29:54,967 [INFO] Connecting to CAN 'can0'…
+2025-07-10 21:29:54,974 [INFO] Created a socket
+2025-07-10 21:29:54,978 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-10 21:29:54,978 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 21:30:32,220 [INFO] Connecting to CAN 'can0'…
+2025-07-10 21:30:32,228 [INFO] Created a socket
+2025-07-10 21:30:32,243 [INFO] Current joint angles (0.001°): [-2963, -102, 1847, 0, 18487, 16169]
+2025-07-10 21:30:32,243 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 21:30:41,902 [INFO] Disabling all motors …
+2025-07-10 21:31:16,708 [INFO] Set zero (index 0)
+2025-07-10 21:31:24,801 [INFO] Set zero (index 1)
+2025-07-10 21:31:53,725 [INFO] Set zero (index 2)
+2025-07-10 21:31:58,306 [INFO] Set zero (index 3)
+2025-07-10 21:32:23,694 [INFO] Set zero (index 4)
+2025-07-10 21:32:47,569 [INFO] Set zero (index 5)
+2025-07-10 21:37:55,206 [INFO] Connecting to CAN 'can0'…
+2025-07-10 21:37:55,214 [INFO] Created a socket
+2025-07-10 21:37:55,236 [INFO] Current joint angles (0.001°): [6711, -149, -802, 1513, 21225, 5160]
+2025-07-10 21:37:55,236 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 21:37:59,698 [INFO] Disabling all motors …
+2025-07-10 21:38:32,352 [INFO] Set zero (index 0)
+2025-07-10 21:38:37,081 [INFO] Set zero (index 1)
+2025-07-10 21:38:40,611 [INFO] Set zero (index 2)
+2025-07-10 21:38:53,817 [INFO] Set zero (index 3)
+2025-07-10 21:39:27,216 [INFO] Set zero (index 4)
+2025-07-10 21:39:38,803 [INFO] Set zero (index 5)
+2025-07-10 22:07:44,597 [INFO] Connecting to CAN 'can0'…
+2025-07-10 22:07:44,605 [INFO] Created a socket
+2025-07-10 22:07:44,608 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-10 22:07:44,608 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 22:07:56,031 [INFO] Connecting to CAN 'can0'…
+2025-07-10 22:07:56,039 [INFO] Created a socket
+2025-07-10 22:07:56,077 [INFO] Current joint angles (0.001°): [-322, -306, 168, 4037, 22449, 0]
+2025-07-10 22:07:56,077 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 22:08:01,933 [INFO] Disabling all motors …
+2025-07-10 22:08:24,349 [INFO] Set zero (index 0)
+2025-07-10 22:08:29,447 [INFO] Set zero (index 1)
+2025-07-10 22:08:32,904 [INFO] Set zero (index 2)
+2025-07-10 22:09:04,274 [INFO] Set zero (index 3)
+2025-07-10 22:09:24,910 [INFO] Set zero (index 4)
+2025-07-10 22:09:33,599 [INFO] Set zero (index 5)
+2025-07-10 22:25:05,253 [INFO] Connecting to CAN 'can0'…
+2025-07-10 22:25:05,260 [INFO] Created a socket
+2025-07-10 22:25:05,264 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-10 22:25:05,265 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 22:25:11,904 [INFO] Disabling all motors …
+2025-07-10 22:25:20,785 [INFO] Connecting to CAN 'can0'…
+2025-07-10 22:25:20,792 [INFO] Created a socket
+2025-07-10 22:25:20,814 [INFO] Current joint angles (0.001°): [858, 168, 0, -1804, 20855, -2984]
+2025-07-10 22:25:20,814 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 22:25:25,979 [INFO] Disabling all motors …
+2025-07-10 22:25:37,024 [INFO] Set zero (index 0)
+2025-07-10 22:25:39,329 [INFO] Set zero (index 1)
+2025-07-10 22:25:41,353 [INFO] Set zero (index 2)
+2025-07-10 22:25:46,529 [INFO] Set zero (index 3)
+2025-07-10 22:26:02,574 [INFO] Set zero (index 4)
+2025-07-10 22:26:21,444 [INFO] Set zero (index 5)
+2025-07-10 22:26:27,304 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-10 22:26:28,809 [INFO] Joint angles after zero-set (0.001°): [0, 38, 70, 0, 19655, 0]
+2025-07-10 22:26:28,822 [INFO] After in degrees: [0.0, 0.038, 0.07, 0.0, 19.655, 0.0]
+2025-07-10 22:26:28,822 [WARNING] Zero-set MAY HAVE FAILED, max deviation 19655 > 200
+2025-07-10 22:26:28,827 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-10 22:26:28,827 [INFO] Done.
+2025-07-10 22:36:24,268 [INFO] Connecting to CAN 'can0'…
+2025-07-10 22:36:24,272 [INFO] Created a socket
+2025-07-10 22:36:24,273 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-10 22:36:24,273 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 22:36:32,207 [INFO] Disabling all motors …
+2025-07-10 22:37:03,567 [INFO] Set zero (index 0)
+2025-07-10 22:37:11,723 [INFO] Set zero (index 1)
+2025-07-10 22:37:13,842 [INFO] Set zero (index 2)
+2025-07-10 22:37:19,376 [INFO] Set zero (index 3)
+2025-07-10 22:37:31,219 [INFO] Set zero (index 4)
+2025-07-10 22:37:49,000 [INFO] Set zero (index 5)
+2025-07-10 22:37:50,969 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-10 22:37:52,472 [INFO] Joint angles after zero-set (0.001°): [-109, 44, -30, 2044, 18877, 0]
+2025-07-10 22:37:52,473 [INFO] After in degrees: [-0.109, 0.044, -0.03, 2.044, 18.877, 0.0]
+2025-07-10 22:37:52,473 [WARNING] Zero-set MAY HAVE FAILED, max deviation 18877 > 200
+2025-07-10 22:37:52,476 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-10 22:37:52,476 [INFO] Done.
+2025-07-10 23:23:18,793 [INFO] Connecting to CAN 'can0'…
+2025-07-10 23:23:18,801 [INFO] Created a socket
+2025-07-10 23:23:18,809 [INFO] Current joint angles (0.001°): [-239, 0, 0, 1251, 19153, 5743]
+2025-07-10 23:23:18,809 [INFO] Driver enable flags: [False, True, False, False, False, False] (1 = enabled)
+2025-07-10 23:23:44,185 [INFO] Connecting to CAN 'can0'…
+2025-07-10 23:23:44,193 [INFO] Created a socket
+2025-07-10 23:23:44,214 [INFO] Current joint angles (0.001°): [-186, 0, -943, 0, 20955, 5081]
+2025-07-10 23:23:44,215 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 23:23:47,713 [INFO] Disabling all motors …
+2025-07-10 23:24:20,593 [INFO] Connecting to CAN 'can0'…
+2025-07-10 23:24:20,601 [INFO] Created a socket
+2025-07-10 23:24:20,617 [INFO] Current joint angles (0.001°): [-186, 0, -943, 0, 20955, 5081]
+2025-07-10 23:24:20,624 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 23:24:52,946 [INFO] Connecting to CAN 'can0'…
+2025-07-10 23:24:52,954 [INFO] Created a socket
+2025-07-10 23:24:52,957 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-10 23:24:52,957 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 23:25:25,846 [INFO] Disabling all motors …
+2025-07-10 23:25:31,526 [INFO] Set zero (index 0)
+2025-07-10 23:25:33,742 [INFO] Set zero (index 1)
+2025-07-10 23:25:35,113 [INFO] Set zero (index 2)
+2025-07-10 23:25:39,016 [INFO] Set zero (index 3)
+2025-07-10 23:25:52,601 [INFO] Set zero (index 4)
+2025-07-10 23:26:03,182 [INFO] Set zero (index 5)
+2025-07-10 23:26:06,286 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-10 23:26:07,791 [INFO] Joint angles after zero-set (0.001°): [-63, 0, 28, 1884, 19065, 0]
+2025-07-10 23:26:07,791 [INFO] After in degrees: [-0.063, 0.0, 0.028, 1.884, 19.065, 0.0]
+2025-07-10 23:26:07,791 [WARNING] Zero-set MAY HAVE FAILED, max deviation 19065 > 200
+2025-07-10 23:26:07,794 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-10 23:26:07,808 [INFO] Done.
+2025-07-10 23:50:17,363 [INFO] Connecting to CAN 'can0'…
+2025-07-10 23:50:17,371 [INFO] Created a socket
+2025-07-10 23:50:17,427 [INFO] Current joint angles (0.001°): [0, 0, -222, 0, 19904, 0]
+2025-07-10 23:50:17,436 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 23:50:23,316 [INFO] Connecting to CAN 'can0'…
+2025-07-10 23:50:23,324 [INFO] Created a socket
+2025-07-10 23:50:23,326 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-10 23:50:23,326 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 23:50:30,516 [INFO] Disabling all motors …
+2025-07-10 23:50:35,926 [INFO] Set zero (index 0)
+2025-07-10 23:50:37,951 [INFO] Set zero (index 1)
+2025-07-10 23:50:40,831 [INFO] Set zero (index 2)
+2025-07-10 23:51:00,051 [INFO] Set zero (index 3)
+2025-07-10 23:51:08,366 [INFO] Set zero (index 4)
+2025-07-10 23:51:24,539 [INFO] Set zero (index 5)
+2025-07-10 23:51:27,594 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-10 23:51:29,110 [INFO] Joint angles after zero-set (0.001°): [139, -49, 93, -1496, 19822, 0]
+2025-07-10 23:51:29,110 [INFO] After in degrees: [0.139, -0.049, 0.093, -1.496, 19.822, 0.0]
+2025-07-10 23:51:29,112 [WARNING] Zero-set MAY HAVE FAILED, max deviation 19822 > 200
+2025-07-10 23:51:29,116 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-10 23:51:29,117 [INFO] Done.
+2025-07-10 23:55:45,453 [INFO] Connecting to CAN 'can0'…
+2025-07-10 23:55:45,461 [INFO] Created a socket
+2025-07-10 23:55:45,493 [INFO] Current joint angles (0.001°): [139, -49, 93, -1496, 19822, 0]
+2025-07-10 23:55:45,495 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 23:55:52,515 [INFO] Disabling all motors …
+2025-07-10 23:56:13,000 [INFO] Set zero (index 4)
+2025-07-10 23:56:18,017 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-10 23:56:19,524 [INFO] Joint angles after zero-set (0.001°): [-1377, -105, 68, 3056, 18557, 0]
+2025-07-10 23:56:19,537 [INFO] After in degrees: [-1.377, -0.105, 0.068, 3.056, 18.557, 0.0]
+2025-07-10 23:56:19,537 [WARNING] Zero-set MAY HAVE FAILED, max deviation 18557 > 200
+2025-07-10 23:56:19,539 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-10 23:56:19,540 [INFO] Done.
+2025-07-10 23:56:40,934 [INFO] Connecting to CAN 'can0'…
+2025-07-10 23:56:40,941 [INFO] Created a socket
+2025-07-10 23:56:40,963 [INFO] Current joint angles (0.001°): [1362, -105, 68, 3056, 18627, 0]
+2025-07-10 23:56:40,992 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-10 23:56:44,076 [INFO] Disabling all motors …
+2025-07-10 23:56:52,961 [INFO] Set zero (index 4)
+2025-07-10 23:56:55,466 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-10 23:56:56,969 [INFO] Joint angles after zero-set (0.001°): [1362, -105, 68, 3056, 0, 0]
+2025-07-10 23:56:56,981 [INFO] After in degrees: [1.362, -0.105, 0.068, 3.056, 0.0, 0.0]
+2025-07-10 23:56:56,981 [WARNING] Zero-set MAY HAVE FAILED, max deviation 3056 > 200
+2025-07-10 23:56:56,982 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-10 23:56:56,982 [INFO] Done.
+2025-07-11 00:01:24,584 [INFO] Connecting to CAN 'can0'…
+2025-07-11 00:01:24,592 [INFO] Created a socket
+2025-07-11 00:01:24,595 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-11 00:01:24,595 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-11 00:01:58,017 [INFO] Connecting to CAN 'can0'…
+2025-07-11 00:01:58,025 [INFO] Created a socket
+2025-07-11 00:01:58,042 [INFO] Current joint angles (0.001°): [7649, -160, 25, 3148, 0, 0]
+2025-07-11 00:01:58,042 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-11 00:02:05,182 [INFO] Connecting to CAN 'can0'…
+2025-07-11 00:02:05,189 [INFO] Created a socket
+2025-07-11 00:02:05,192 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-11 00:02:05,192 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-11 00:02:15,683 [INFO] Disabling all motors …
+2025-07-11 00:02:42,644 [INFO] Set zero (index 0)
+2025-07-11 00:03:00,958 [INFO] Set zero (index 1)
+2025-07-11 00:03:05,391 [INFO] Set zero (index 2)
+2025-07-11 00:03:13,681 [INFO] Set zero (index 3)
+2025-07-11 00:03:26,584 [INFO] Set zero (index 4)
+2025-07-11 00:03:36,473 [INFO] Set zero (index 5)
+2025-07-11 00:03:38,833 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-11 00:03:40,338 [INFO] Joint angles after zero-set (0.001°): [30, -26, 73, -1467, 19760, 0]
+2025-07-11 00:03:40,353 [INFO] After in degrees: [0.03, -0.026, 0.073, -1.467, 19.76, 0.0]
+2025-07-11 00:03:40,353 [WARNING] Zero-set MAY HAVE FAILED, max deviation 19760 > 200
+2025-07-11 00:03:40,358 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-11 00:03:40,359 [INFO] Done.
+2025-07-11 00:06:46,015 [INFO] Connecting to CAN 'can0'…
+2025-07-11 00:06:46,024 [INFO] Created a socket
+2025-07-11 00:06:46,069 [INFO] Current joint angles (0.001°): [30, -26, 73, -1467, 19816, 0]
+2025-07-11 00:06:46,074 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-11 00:06:53,090 [INFO] Disabling all motors …
+2025-07-11 00:06:58,105 [INFO] Set zero (index 4)
+2025-07-11 00:07:01,101 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-11 00:07:02,613 [INFO] Joint angles after zero-set (0.001°): [30, -26, 73, -1467, 0, 0]
+2025-07-11 00:07:02,614 [INFO] After in degrees: [0.03, -0.026, 0.073, -1.467, 0.0, 0.0]
+2025-07-11 00:07:02,629 [WARNING] Zero-set MAY HAVE FAILED, max deviation 1467 > 200
+2025-07-11 00:07:02,630 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-11 00:07:02,630 [INFO] Done.
+2025-07-11 00:09:04,967 [INFO] Connecting to CAN 'can0'…
+2025-07-11 00:09:04,975 [INFO] Created a socket
+2025-07-11 00:09:04,991 [INFO] Current joint angles (0.001°): [30, -26, 73, -1467, 0, 0]
+2025-07-11 00:09:05,011 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-11 00:09:09,641 [INFO] Connecting to CAN 'can0'…
+2025-07-11 00:09:09,649 [INFO] Created a socket
+2025-07-11 00:09:09,651 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-11 00:09:09,651 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-11 00:09:45,354 [INFO] Connecting to CAN 'can0'…
+2025-07-11 00:09:45,361 [INFO] Created a socket
+2025-07-11 00:09:45,383 [INFO] Current joint angles (0.001°): [30, -26, 73, -881, 0, 0]
+2025-07-11 00:09:45,383 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-11 00:09:50,175 [INFO] Disabling all motors …
+2025-07-11 00:09:57,847 [ERROR] Неверный выбор режима: 0
+2025-07-11 00:10:03,434 [INFO] Connecting to CAN 'can0'…
+2025-07-11 00:10:03,442 [INFO] Created a socket
+2025-07-11 00:10:03,463 [INFO] Current joint angles (0.001°): [30, -26, 73, -881, 0, 0]
+2025-07-11 00:10:03,464 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-11 00:10:07,235 [INFO] Connecting to CAN 'can0'…
+2025-07-11 00:10:07,243 [INFO] Created a socket
+2025-07-11 00:10:07,269 [INFO] Current joint angles (0.001°): [30, -26, 73, -881, 0, 0]
+2025-07-11 00:10:07,269 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-11 00:10:09,234 [INFO] Disabling all motors …
+2025-07-11 00:10:14,519 [INFO] Set zero (index 0)
+2025-07-11 00:10:16,555 [INFO] Set zero (index 1)
+2025-07-11 00:10:19,544 [INFO] Set zero (index 2)
+2025-07-11 00:10:37,446 [INFO] Set zero (index 3)
+2025-07-11 00:10:46,836 [INFO] Set zero (index 4)
+2025-07-11 00:10:54,889 [INFO] Set zero (index 5)
+2025-07-11 00:10:58,823 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-11 00:11:00,330 [INFO] Joint angles after zero-set (0.001°): [-469, 0, 0, -870, 18473, 0]
+2025-07-11 00:11:00,330 [INFO] After in degrees: [-0.469, 0.0, 0.0, -0.87, 18.473, 0.0]
+2025-07-11 00:11:00,330 [WARNING] Zero-set MAY HAVE FAILED, max deviation 18473 > 200
+2025-07-11 00:11:00,334 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-11 00:11:00,341 [INFO] Done.
+2025-07-11 00:11:13,513 [INFO] Connecting to CAN 'can0'…
+2025-07-11 00:11:13,522 [INFO] Created a socket
+2025-07-11 00:11:13,557 [INFO] Current joint angles (0.001°): [-469, 0, 0, -870, 18517, 0]
+2025-07-11 00:11:13,557 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-11 00:11:16,147 [INFO] Disabling all motors …
+2025-07-11 00:11:46,301 [INFO] Set zero (index 0)
+2025-07-11 00:11:50,006 [INFO] Set zero (index 1)
+2025-07-11 00:11:52,698 [INFO] Set zero (index 2)
+2025-07-11 00:11:57,793 [INFO] Set zero (index 3)
+2025-07-11 00:12:12,874 [INFO] Set zero (index 4)
+2025-07-11 00:12:21,803 [INFO] Set zero (index 5)
+2025-07-11 00:12:31,735 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-11 00:12:33,239 [INFO] Joint angles after zero-set (0.001°): [-1111, -12, 39, 0, 2390, 0]
+2025-07-11 00:12:33,260 [INFO] After in degrees: [-1.111, -0.012, 0.039, 0.0, 2.39, 0.0]
+2025-07-11 00:12:33,260 [WARNING] Zero-set MAY HAVE FAILED, max deviation 2390 > 200
+2025-07-11 00:12:33,264 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-11 00:12:33,265 [INFO] Done.
+2025-07-14 23:18:02,560 [INFO] Connecting to CAN 'can0'…
+2025-07-14 23:18:02,585 [INFO] Created a socket
+2025-07-14 23:18:02,589 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-14 23:18:02,589 [INFO] Driver enable flags: [False, False, True, False, False, False] (1 = enabled)
+2025-07-14 23:18:11,198 [INFO] Disabling all motors …
+2025-07-14 23:19:24,429 [INFO] Set zero (index 0)
+2025-07-14 23:19:32,112 [INFO] Set zero (index 1)
+2025-07-14 23:19:41,368 [INFO] Set zero (index 2)
+2025-07-14 23:20:00,381 [INFO] Set zero (index 3)
+2025-07-14 23:20:15,557 [INFO] Set zero (index 4)
+2025-07-14 23:20:24,636 [INFO] Set zero (index 5)
+2025-07-14 23:20:29,942 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-14 23:20:31,445 [INFO] Joint angles after zero-set (0.001°): [0, 61, 77, -2401, 21140, 0]
+2025-07-14 23:20:31,445 [INFO] After in degrees: [0.0, 0.061, 0.077, -2.401, 21.14, 0.0]
+2025-07-14 23:20:31,445 [WARNING] Zero-set MAY HAVE FAILED, max deviation 21140 > 200
+2025-07-14 23:20:31,449 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-14 23:20:31,449 [INFO] Done.
+2025-07-14 23:24:25,532 [INFO] Connecting to CAN 'can0'…
+2025-07-14 23:24:25,536 [INFO] Created a socket
+2025-07-14 23:24:25,539 [INFO] Current joint angles (0.001°): [-2835, 0, 0, 1906, 19555, -9125]
+2025-07-14 23:24:25,539 [INFO] Driver enable flags: [True, False, False, False, False, True] (1 = enabled)
+2025-07-14 23:24:37,712 [INFO] Connecting to CAN 'can0'…
+2025-07-14 23:24:37,716 [INFO] Created a socket
+2025-07-14 23:24:37,719 [INFO] Current joint angles (0.001°): [-2835, 0, 0, 1906, 19555, -9125]
+2025-07-14 23:24:37,719 [INFO] Driver enable flags: [False, False, False, False, True, False] (1 = enabled)
+2025-07-14 23:24:38,901 [INFO] Connecting to CAN 'can0'…
+2025-07-14 23:24:38,905 [INFO] Created a socket
+2025-07-14 23:24:38,907 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-14 23:24:38,908 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-14 23:24:39,348 [INFO] Connecting to CAN 'can0'…
+2025-07-14 23:24:39,351 [INFO] Created a socket
+2025-07-14 23:24:39,354 [INFO] Current joint angles (0.001°): [-2835, 0, 0, 1906, 19555, -9125]
+2025-07-14 23:24:39,354 [INFO] Driver enable flags: [False, False, True, False, False, False] (1 = enabled)
+2025-07-14 23:24:42,853 [INFO] Disabling all motors …
+2025-07-14 23:25:00,901 [INFO] Set zero (index 4)
+2025-07-14 23:25:05,819 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-14 23:25:07,322 [INFO] Joint angles after zero-set (0.001°): [-2840, -803, 365, 9653, 96196, -12132]
+2025-07-14 23:25:07,322 [INFO] After in degrees: [-2.84, -0.803, 0.365, 9.653, 96.196, -12.132]
+2025-07-14 23:25:07,322 [WARNING] Zero-set MAY HAVE FAILED, max deviation 96196 > 200
+2025-07-14 23:25:07,323 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-14 23:25:07,324 [INFO] Done.
+2025-07-14 23:26:46,708 [INFO] Connecting to CAN 'can0'…
+2025-07-14 23:26:46,711 [INFO] Created a socket
+2025-07-14 23:26:46,714 [INFO] Current joint angles (0.001°): [-6866, 0, 569, 675, 91801, -2396]
+2025-07-14 23:26:46,714 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-14 23:26:52,410 [INFO] Disabling all motors …
+2025-07-14 23:27:22,454 [INFO] Set zero (index 4)
+2025-07-14 23:27:38,446 [INFO] Set zero (index 3)
+2025-07-14 23:28:10,106 [INFO] Set zero (index 0)
+2025-07-14 23:28:24,676 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-14 23:28:26,178 [INFO] Joint angles after zero-set (0.001°): [0, 0, 569, 0, 22391, -3007]
+2025-07-14 23:28:26,180 [INFO] After in degrees: [0.0, 0.0, 0.569, 0.0, 22.391, -3.007]
+2025-07-14 23:28:26,180 [WARNING] Zero-set MAY HAVE FAILED, max deviation 22391 > 200
+2025-07-14 23:28:26,183 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-14 23:28:26,183 [INFO] Done.
+2025-07-14 23:32:17,597 [INFO] Connecting to CAN 'can0'…
+2025-07-14 23:32:17,602 [INFO] Created a socket
+2025-07-14 23:32:17,603 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-14 23:32:17,603 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-14 23:32:21,501 [INFO] Disabling all motors …
+2025-07-14 23:33:06,415 [INFO] Set zero (index 0)
+2025-07-14 23:33:16,955 [INFO] Set zero (index 1)
+2025-07-14 23:33:32,625 [INFO] Set zero (index 2)
+2025-07-14 23:33:51,596 [INFO] Set zero (index 3)
+2025-07-14 23:34:32,508 [INFO] Set zero (index 4)
+2025-07-14 23:34:58,161 [INFO] Set zero (index 5)
+2025-07-14 23:35:01,076 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-14 23:35:02,578 [INFO] Joint angles after zero-set (0.001°): [0, -809, 483, 3604, 22640, 0]
+2025-07-14 23:35:02,578 [INFO] After in degrees: [0.0, -0.809, 0.483, 3.604, 22.64, 0.0]
+2025-07-14 23:35:02,579 [WARNING] Zero-set MAY HAVE FAILED, max deviation 22640 > 200
+2025-07-14 23:35:02,583 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-14 23:35:02,583 [INFO] Done.
+2025-07-15 20:02:02,595 [INFO] Connecting to CAN 'can0'…
+2025-07-15 20:02:02,605 [INFO] Created a socket
+2025-07-15 20:02:02,634 [INFO] Current joint angles (0.001°): [-1239, -287, 199, -1849, 13916, 1841]
+2025-07-15 20:02:02,635 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-15 20:02:07,635 [INFO] Disabling all motors …
+2025-07-15 20:03:40,599 [INFO] Connecting to CAN 'can0'…
+2025-07-15 20:03:40,606 [INFO] Created a socket
+2025-07-15 20:03:40,648 [INFO] Current joint angles (0.001°): [-1416, -343, 199, -1633, 13753, 376]
+2025-07-15 20:03:40,648 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-15 20:03:45,367 [INFO] Disabling all motors …
+2025-07-15 20:04:01,188 [INFO] Set zero (index 0)
+2025-07-15 20:04:06,848 [INFO] Set zero (index 1)
+2025-07-15 20:04:12,494 [INFO] Set zero (index 2)
+2025-07-15 20:04:22,414 [INFO] Set zero (index 3)
+2025-07-15 20:04:30,694 [INFO] Set zero (index 4)
+2025-07-15 20:04:42,890 [INFO] Set zero (index 5)
+2025-07-15 20:04:49,505 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-15 20:04:51,010 [INFO] Joint angles after zero-set (0.001°): [-57, 0, 92, -651, 25201, 0]
+2025-07-15 20:04:51,011 [INFO] After in degrees: [-0.057, 0.0, 0.092, -0.651, 25.201, 0.0]
+2025-07-15 20:04:51,011 [WARNING] Zero-set MAY HAVE FAILED, max deviation 25201 > 200
+2025-07-15 20:04:51,015 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-15 20:04:51,015 [INFO] Done.
+2025-07-15 20:13:59,980 [INFO] Connecting to CAN 'can0'…
+2025-07-15 20:13:59,988 [INFO] Created a socket
+2025-07-15 20:13:59,991 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-15 20:13:59,991 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-15 20:14:07,519 [INFO] Disabling all motors …
+2025-07-15 20:14:27,966 [INFO] Set zero (index 0)
+2025-07-15 20:14:32,686 [INFO] Set zero (index 1)
+2025-07-15 20:14:58,983 [INFO] Set zero (index 2)
+2025-07-15 20:15:04,089 [INFO] Set zero (index 3)
+2025-07-15 20:15:19,468 [INFO] Set zero (index 4)
+2025-07-15 20:15:59,520 [INFO] Set zero (index 5)
+2025-07-15 20:16:02,340 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-15 20:16:03,844 [INFO] Joint angles after zero-set (0.001°): [-729, 30, 391, 3102, 20703, -887]
+2025-07-15 20:16:03,844 [INFO] After in degrees: [-0.729, 0.03, 0.391, 3.102, 20.703, -0.887]
+2025-07-15 20:16:03,845 [WARNING] Zero-set MAY HAVE FAILED, max deviation 20703 > 200
+2025-07-15 20:16:03,852 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-15 20:16:03,890 [INFO] Done.
+2025-07-20 17:47:30,075 [INFO] Connecting to CAN 'can1'…
+2025-07-20 17:47:30,080 [INFO] Created a socket
+2025-07-20 17:47:30,083 [INFO] Current joint angles (0.001°): [-314, -98, -103, -2720, 24320, -356]
+2025-07-20 17:47:30,083 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-20 17:47:37,994 [INFO] Disabling all motors …
+2025-07-20 17:47:48,690 [INFO] Set zero (index 0)
+2025-07-20 17:47:54,509 [INFO] Set zero (index 1)
+2025-07-20 17:48:00,711 [INFO] Set zero (index 2)
+2025-07-20 17:48:05,875 [INFO] Set zero (index 3)
+2025-07-20 17:48:12,828 [INFO] Set zero (index 4)
+2025-07-20 17:48:22,177 [INFO] Set zero (index 5)
+2025-07-20 17:48:24,821 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-20 17:48:26,324 [INFO] Joint angles after zero-set (0.001°): [57, 0, 24, 1750, 24512, 0]
+2025-07-20 17:48:26,324 [INFO] After in degrees: [0.057, 0.0, 0.024, 1.75, 24.512, 0.0]
+2025-07-20 17:48:26,325 [WARNING] Zero-set MAY HAVE FAILED, max deviation 24512 > 200
+2025-07-20 17:48:26,327 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-20 17:48:26,327 [INFO] Done.
+2025-07-21 22:48:05,676 [INFO] Connecting to CAN 'can0'…
+2025-07-21 22:48:05,682 [INFO] Created a socket
+2025-07-21 22:48:05,683 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-21 22:48:05,683 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-21 22:48:09,374 [INFO] Disabling all motors …
+2025-07-21 22:48:38,215 [INFO] Connecting to CAN 'can0'…
+2025-07-21 22:48:38,218 [INFO] Created a socket
+2025-07-21 22:48:38,221 [INFO] Current joint angles (0.001°): [-359, -133, 525, 1172, 22349, -518]
+2025-07-21 22:48:38,221 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-21 22:48:50,578 [INFO] Connecting to CAN 'can0'…
+2025-07-21 22:48:50,582 [INFO] Created a socket
+2025-07-21 22:48:50,585 [INFO] Current joint angles (0.001°): [-346, -177, 374, 1135, 22521, -411]
+2025-07-21 22:48:50,585 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-21 22:48:52,302 [INFO] Disabling all motors …
+2025-07-21 22:49:10,074 [INFO] Set zero (index 0)
+2025-07-21 22:49:16,571 [INFO] Set zero (index 1)
+2025-07-21 22:49:20,621 [INFO] Set zero (index 2)
+2025-07-21 22:49:32,759 [INFO] Set zero (index 3)
+2025-07-21 22:49:39,720 [INFO] Set zero (index 4)
+2025-07-21 22:49:47,085 [INFO] Set zero (index 5)
+2025-07-21 22:49:48,875 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-21 22:49:50,378 [INFO] Joint angles after zero-set (0.001°): [140, 0, 80, 5379, 19766, 0]
+2025-07-21 22:49:50,378 [INFO] After in degrees: [0.14, 0.0, 0.08, 5.379, 19.766, 0.0]
+2025-07-21 22:49:50,378 [WARNING] Zero-set MAY HAVE FAILED, max deviation 19766 > 200
+2025-07-21 22:49:50,380 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-21 22:49:50,380 [INFO] Done.
+2025-07-21 23:52:25,507 [INFO] Connecting to CAN 'can0'…
+2025-07-21 23:52:25,510 [INFO] Created a socket
+2025-07-21 23:52:25,511 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-21 23:52:25,511 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-21 23:52:28,712 [INFO] Disabling all motors …
+2025-07-21 23:52:36,146 [INFO] Set zero (index 0)
+2025-07-21 23:52:42,401 [INFO] Set zero (index 1)
+2025-07-21 23:52:43,952 [INFO] Set zero (index 2)
+2025-07-21 23:52:49,648 [INFO] Set zero (index 3)
+2025-07-21 23:52:54,824 [INFO] Set zero (index 4)
+2025-07-21 23:52:58,947 [INFO] Set zero (index 5)
+2025-07-21 23:53:01,603 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-21 23:53:03,106 [INFO] Joint angles after zero-set (0.001°): [92, 62, 89, 2714, 19337, 0]
+2025-07-21 23:53:03,106 [INFO] After in degrees: [0.092, 0.062, 0.089, 2.714, 19.337, 0.0]
+2025-07-21 23:53:03,108 [WARNING] Zero-set MAY HAVE FAILED, max deviation 19337 > 200
+2025-07-21 23:53:03,110 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-21 23:53:03,111 [INFO] Done.
+2025-07-22 02:19:18,409 [INFO] Connecting to CAN 'can1'…
+2025-07-22 02:19:18,416 [INFO] Created a socket
+2025-07-22 02:19:18,418 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-22 02:19:18,419 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-22 02:20:01,108 [INFO] Connecting to CAN 'can1'…
+2025-07-22 02:20:01,116 [INFO] Created a socket
+2025-07-22 02:20:01,150 [INFO] Current joint angles (0.001°): [-882, 302, -469, -2121, 26468, 0]
+2025-07-22 02:20:01,153 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-22 02:20:02,843 [INFO] Disabling all motors …
+2025-07-22 02:20:11,041 [INFO] Set zero (index 0)
+2025-07-22 02:20:13,072 [INFO] Set zero (index 1)
+2025-07-22 02:20:14,724 [INFO] Set zero (index 2)
+2025-07-22 02:20:28,323 [INFO] Set zero (index 2)
+2025-07-22 02:20:31,733 [INFO] Set zero (index 3)
+2025-07-22 02:20:50,899 [INFO] Set zero (index 4)
+2025-07-22 02:20:59,835 [INFO] Set zero (index 5)
+2025-07-22 02:21:02,119 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-22 02:21:03,624 [INFO] Joint angles after zero-set (0.001°): [-230, -23, -87, 1535, 23890, -727]
+2025-07-22 02:21:03,624 [INFO] After in degrees: [-0.23, -0.023, -0.087, 1.535, 23.89, -0.727]
+2025-07-22 02:21:03,624 [WARNING] Zero-set MAY HAVE FAILED, max deviation 23890 > 200
+2025-07-22 02:21:03,628 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-22 02:21:03,629 [INFO] Done.
+2025-07-22 13:48:53,101 [INFO] Connecting to CAN 'can0'…
+2025-07-22 13:48:53,111 [INFO] Created a socket
+2025-07-22 13:48:53,337 [INFO] Current joint angles (0.001°): [0, -141, 1208, 0, 21322, 1109]
+2025-07-22 13:48:53,357 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-22 13:48:56,480 [INFO] Disabling all motors …
+2025-07-22 13:49:01,767 [INFO] Set zero (index 0)
+2025-07-22 13:49:03,181 [INFO] Set zero (index 1)
+2025-07-22 13:49:05,362 [INFO] Set zero (index 2)
+2025-07-22 13:49:08,134 [INFO] Set zero (index 3)
+2025-07-22 13:49:23,481 [INFO] Set zero (index 4)
+2025-07-22 13:49:35,056 [INFO] Set zero (index 5)
+2025-07-22 13:49:37,779 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-22 13:49:39,288 [INFO] Joint angles after zero-set (0.001°): [100, 0, 0, 445, 19460, 0]
+2025-07-22 13:49:39,288 [INFO] After in degrees: [0.1, 0.0, 0.0, 0.445, 19.46, 0.0]
+2025-07-22 13:49:39,289 [WARNING] Zero-set MAY HAVE FAILED, max deviation 19460 > 200
+2025-07-22 13:49:39,291 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-22 13:49:39,292 [INFO] Done.
+2025-07-22 13:50:15,498 [INFO] Connecting to CAN 'can1'…
+2025-07-22 13:50:15,506 [INFO] Created a socket
+2025-07-22 13:50:15,509 [INFO] Current joint angles (0.001°): [0, 0, 0, 0, 0, 0]
+2025-07-22 13:50:15,509 [INFO] Driver enable flags: [False, False, False, False, False, False] (1 = enabled)
+2025-07-22 13:50:18,313 [INFO] Disabling all motors …
+2025-07-22 13:51:04,283 [INFO] Set zero (index 0)
+2025-07-22 13:51:06,156 [INFO] Set zero (index 1)
+2025-07-22 13:51:08,702 [INFO] Set zero (index 2)
+2025-07-22 13:51:16,830 [INFO] Set zero (index 3)
+2025-07-22 13:51:31,365 [INFO] Set zero (index 4)
+2025-07-22 13:51:42,351 [INFO] Set zero (index 5)
+2025-07-22 13:51:44,176 [INFO] Завершён поочерёдный режим установки нулей.
+2025-07-22 13:51:45,688 [INFO] Joint angles after zero-set (0.001°): [242, -119, 68, 2564, 24890, 0]
+2025-07-22 13:51:45,713 [INFO] After in degrees: [0.242, -0.119, 0.068, 2.564, 24.89, 0.0]
+2025-07-22 13:51:45,713 [WARNING] Zero-set MAY HAVE FAILED, max deviation 24890 > 200
+2025-07-22 13:51:45,718 [INFO] Driver enable flags after: [False, False, False, False, False, False]
+2025-07-22 13:51:45,719 [INFO] Done.
